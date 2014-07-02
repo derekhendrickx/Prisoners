@@ -1,0 +1,7 @@
+rounds=1000
+evolutions=1000
+strategies=PerCCD,PerDDC,SoftMajo
+populationPerStrategies=300,400,200
+debug=true
+csvGeneration=true
+csvFileName=prisoners
